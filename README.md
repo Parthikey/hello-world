@@ -1,2 +1,2 @@
 # hello-world
-print("Hello world")
+hello my name is partikey singh
